@@ -1,6 +1,6 @@
 # ShopX
 
-Base on CodeX code by Afzal.
+Based on CodeX code by Afzal.
 
 ## Getting Started
 
